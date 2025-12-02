@@ -1,0 +1,5 @@
+{
+  "name": "Reddit Keyword Pulse",
+  "description": "A powerful analyzer that uses Google Search Grounding to simulate scraping Reddit discussions for specific keyword frequency and sentiment analysis.",
+  "requestFramePermissions": []
+}
